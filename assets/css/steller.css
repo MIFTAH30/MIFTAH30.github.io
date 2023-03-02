@@ -11228,8 +11228,8 @@ pre {
 .contact {
   position: relative;
   border-radius: 0.3rem;
-  border: 1px solid 1px;
-  box-shadow: 1px 2px 6px rgba(173, 181, 189, 0.5);
+  /* border: 1px solid #eee; */
+  /* box-shadow: 1px 2px 6px rgba(173, 181, 189, 0.5); */
   padding: 0 30px 0 25px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -11258,8 +11258,8 @@ pre {
   -webkit-align-self: center;
       -ms-flex-item-align: center;
           align-self: center;
-  margin-left: 30px;
-  min-width: 350px;
+  /* margin-left: 30px;
+  min-width: 350px; */
 }
 
 .contact .contact-infos .item {
@@ -11322,9 +11322,9 @@ pre {
     padding: 0;
     border-right: 0;
   }
-  .contact .contact-infos {
+  /* .contact .contact-infos {
     display: none;
-  }
+  } */
 }
 
 #map {
